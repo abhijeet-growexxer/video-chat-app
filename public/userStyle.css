@@ -1,0 +1,14 @@
+.container{
+    width: 70%;
+    margin:0 auto;
+    height: 700px;
+    display:flex;
+}
+.users{
+    border-right: 1px solid #000;
+    width:40%;
+}
+.header{
+    text-align:center;
+}
+    
